@@ -1,0 +1,4 @@
+Model,Best Parameters,Accuracy,Precision,Recall,F1-Score
+Logistic Regression,{'model__C': 10},0.9215615430321312,0.9304554501691638,0.9167701863354036,0.9235204530606357
+Decision Tree,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.9262678824443531,0.9190229498044233,0.9399585921325052,0.9293626107078113
+Random Forest,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}",0.946142191142191,0.9536154665216154,0.9416149068322982,0.9475134787461418
